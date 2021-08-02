@@ -36,3 +36,17 @@ if(ages>=18){
     else{
         document.getElementById("n").innerHTML="Please collect your Id Card";
     }
+   
+
+}
+else{
+    document.getElementById("n").innerHTML=notAgree;
+}
+
+
+
+
+
+
+
+
